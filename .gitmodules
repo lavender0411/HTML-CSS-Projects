@@ -1,0 +1,6 @@
+[submodule "tea-station"]
+	path = tea-station
+	url = https://github.com/lavender0411/tea-station
+[submodule "backroads"]
+	path = backroads
+	url = https://github.com/lavender0411/backroads
